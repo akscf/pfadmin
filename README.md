@@ -19,5 +19,6 @@ This solution is more suitable for small systems, like: 1-2 domains and about 1k
 
 ## Documentations
 <a href="https://akscf.org/?page=projects/pfadmin/main" target="_blank">Manuals</a><br>
+<a href="https://akscf.org/?page=projects/pfadmin/license" target="_blank">License</a><br>
 <a href="https://akscf.org/?page=projects/pfadmin/screenshots" target="_blank">Screenshots</a><br>
 
