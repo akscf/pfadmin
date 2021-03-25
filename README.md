@@ -2,7 +2,7 @@
 A web based application to manage mail systems based on Postfix / Dovecot.<br>
 But unlike the original Postfix admin it doesn't require to install webserver, database, php and so on.<br>
 It was written in Perl and contains all the necessary things in itself.<br>
-This solution is more suitable for small systems, like: 1-2 domains and about 1k users.
+This solution is more suitable for small systems, like: 1-2 domains and about 1k users.<br>
 ---<br>
  This application distributed as free and opensource, except the web interface, this part is also free but distributed without source code (but if someone really needs this code you can get it for a small fee)
 </p>
