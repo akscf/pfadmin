@@ -1,24 +1,21 @@
 <p>
-A web based application to manage mail systems based on Postfix / Dovecot, distributed under an open source license.<br>
-But unlike the original Postfix admin it doesn't require to install webserver, database, php and so on.<br>
-It was written in Perl and contains all the necessary things in itself.<br>
-This solution is more suitable for small systems, like: 1-2 domains and about 1k users.
+ This is a lightweight web based application to manage mail systems based on Postfix / Dovecot. <br>
+ More suitable for small systems, about 10 domains and 1-2k users. <br>
+ It was written in Perl, possible to work on quite old systems and doesn't require any external packages. <br>
 </p>
 
-## Features list
- - manage domains, aliases, users
- - manage Postfix filters (helo/sender/header/body)
- - manage files in mailbox
- - support Dovecot quotas for mailbox
- - support Dovecot statistic for mailbox
- - web interface based on Qooxdoo (screenshots)
- - access to all the management API through JSON-RPC (see api documentation)
+### Features
+ - Manage domains, users, aliases, filters (helo/sender/header/body)
+ - Support mailbox quotas
+ - Files manager to manage ones in mailboxes
+ - Json-rpc api
 
-## Downloads
+### Downloads
  [pfadmin-1.1-22022021.tar.gz](https://github.com/akscf/pfadmin/blob/main/bin/pfadmin-1.1-22022021.tar.gz)
+ [example configs](https://github.com/akscf/pfadmin/blob/main/bin/example_configs.tar.gz)
 
-## Documentations
-<a href="https://akscf.org/?page=projects/pfadmin/main" target="_blank">Manuals</a><br>
-<a href="https://akscf.org/?page=projects/pfadmin/license" target="_blank">License</a><br>
+### Related links
+<a href="https://akscf.org/?page=projects/pfadmin/installation_guide" target="_blank">Installation guide</a><br>
+<a href="https://akscf.org/?page=projects/pfadmin/api_doc" target="_blank">API documentation</a><br>
 <a href="https://akscf.org/?page=projects/pfadmin/screenshots" target="_blank">Screenshots</a><br>
 
