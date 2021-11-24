@@ -11,11 +11,10 @@
  - Json-rpc api
 
 ### Downloads
- [pfadmin-1.1-22022021.tar.gz](https://github.com/akscf/pfadmin/blob/main/bin/pfadmin-1.1-22022021.tar.gz)  
- [example configs](https://github.com/akscf/pfadmin/blob/main/bin/example_configs.tar.gz)
+ - [pfadmin-1.1-22022021.tar.gz](https://github.com/akscf/pfadmin/blob/main/bin/pfadmin-1.1-22022021.tar.gz)
+ - [example configs](https://github.com/akscf/pfadmin/blob/main/bin/example_configs.tar.gz)
 
 ### Related links
-<a href="https://akscf.org/?page=projects/pfadmin/installation_guide" target="_blank">Installation guide</a><br>
-<a href="https://akscf.org/?page=projects/pfadmin/api_doc" target="_blank">API documentation</a><br>
-<a href="https://akscf.org/?page=projects/pfadmin/screenshots" target="_blank">Screenshots</a><br>
-
+ - [Installation guide](https://akscf.org/?page=projects/pfadmin/installation_guide)
+ - [API documentation](https://akscf.org/?page=projects/pfadmin/api_doc)
+ - [Screenshots](https://akscf.org/?page=projects/pfadmin/screenshots)
