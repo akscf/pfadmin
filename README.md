@@ -11,7 +11,7 @@
  - Json-rpc api
 
 ### Downloads
- [pfadmin-1.1-22022021.tar.gz](https://github.com/akscf/pfadmin/blob/main/bin/pfadmin-1.1-22022021.tar.gz)
+ [pfadmin-1.1-22022021.tar.gz](https://github.com/akscf/pfadmin/blob/main/bin/pfadmin-1.1-22022021.tar.gz)  
  [example configs](https://github.com/akscf/pfadmin/blob/main/bin/example_configs.tar.gz)
 
 ### Related links
