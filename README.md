@@ -4,17 +4,13 @@
  It was written in Perl, possible to work on quite old systems and doesn't require any external packages. <br>
 </p>
 
-### Features
+## Version-1.1
  - Manage domains, users, aliases, filters (helo/sender/header/body)
  - Support mailbox quotas
  - Files manager to manage ones in mailboxes
  - Json-rpc api
 
-### Downloads
- - [pfadmin-1.1-22022021.tar.gz](https://github.com/akscf/pfadmin/releases/tag/pfadmin-1.1-22022021)
- - [example configs](https://github.com/akscf/pfadmin/blob/main/bin/example_configs.tar.gz)
-
-### Related links
- - [Installation guide](https://akscf.org/?page=projects/pfadmin/installation_guide)
- - [API documentation](https://akscf.org/?page=projects/pfadmin/api_doc)
- - [Screenshots](https://akscf.org/?page=projects/pfadmin/screenshots)
+### Related files
+ - [Installation guide](https://github.com/akscf/pfadmin/blob/main/docs/pfadmin_1x_installation_guide.pdf)
+ - [API documentation](https://github.com/akscf/pfadmin/blob/main/docs/pfadmin_1x_api.pdf)
+ - [Example configs](https://github.com/akscf/pfadmin/blob/main/bin/example_configs.tar.gz)
